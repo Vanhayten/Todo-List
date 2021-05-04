@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Do It</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">Tasks</string>
+    <string name="hist">Historique</string>
+</resources>
